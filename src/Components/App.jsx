@@ -1,5 +1,5 @@
 import React from 'react'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, createHashRouter, RouterProvider } from 'react-router-dom';
 import Home from './Home/Home';
 import About from './About/About';
 import Layout from './Layout/Layout';
@@ -12,7 +12,7 @@ import TopRated from './Movies/TopRated/TopRated';
 import Popular from './Movies/Popular/Popular';
 import UpComing from './Movies/UpComing/UpComing';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '/first-react', element: <Layout />, children: [
       { index: true, element: <Home /> },
