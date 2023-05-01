@@ -32,7 +32,7 @@ export default function Footer() {
             </div>
             <div className="bg-dark text-center text-white p-2 fixed-bottom">
                 <p className='m-0'>© Copyright <strong>2022</strong>. All Rights Reserved</p>
-                <p className='m-0'>Created by <a className='nav-link d-inline' target='_blank' href="https://github.com/Develekko"><strong>Housam Ramadan</strong></a></p>
+                <p className='m-0'>Created by <a className='nav-link d-inline' target='_blank' href="https://github.com/AhmedFahmy0"><strong>Ahmed Fahmy</strong></a></p>
             </div>
         </footer>
     </>
