@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.85d8ab4f.css",
-    "main.js": "/test/static/js/main.d032a0be.js",
-    "static/media/fa-solid-900.ttf": "/test/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
-    "static/media/fa-brands-400.ttf": "/test/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
-    "static/media/fa-solid-900.woff2": "/test/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
-    "static/media/fa-brands-400.woff2": "/test/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
-    "static/media/fa-regular-400.ttf": "/test/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
-    "static/media/cabin.png": "/test/static/media/cabin.4417330275f78faa31c3.png",
-    "static/media/circus.png": "/test/static/media/circus.494a4a914b5471b41f3e.png",
-    "static/media/game.png": "/test/static/media/game.a940b57aa7bab2eacc52.png",
-    "static/media/fa-regular-400.woff2": "/test/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
-    "static/media/submarine.png": "/test/static/media/submarine.48c9704ca7f8ce901038.png",
-    "static/media/safe.png": "/test/static/media/safe.01792c0bdc342bf4bf9c.png",
-    "static/media/cake.png": "/test/static/media/cake.6554473016d32b343f02.png",
-    "static/media/Avatar.svg": "/test/static/media/Avatar.aa9aff02ddd0ef36a1724ecef4133df9.svg",
-    "static/media/fa-v4compatibility.ttf": "/test/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
-    "static/media/fa-v4compatibility.woff2": "/test/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
-    "index.html": "/test/index.html",
-    "main.85d8ab4f.css.map": "/test/static/css/main.85d8ab4f.css.map",
-    "main.d032a0be.js.map": "/test/static/js/main.d032a0be.js.map"
+    "main.css": "/react-portfolio-app/static/css/main.e85a0743.css",
+    "main.js": "/react-portfolio-app/static/js/main.b40242fc.js",
+    "static/media/fa-solid-900.ttf": "/react-portfolio-app/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/react-portfolio-app/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/react-portfolio-app/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/react-portfolio-app/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/react-portfolio-app/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/cabin.png": "/react-portfolio-app/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/react-portfolio-app/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/react-portfolio-app/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/react-portfolio-app/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/submarine.png": "/react-portfolio-app/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/react-portfolio-app/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/react-portfolio-app/static/media/cake.6554473016d32b343f02.png",
+    "static/media/Avatar.svg": "/react-portfolio-app/static/media/Avatar.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/react-portfolio-app/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-portfolio-app/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/react-portfolio-app/index.html",
+    "main.e85a0743.css.map": "/react-portfolio-app/static/css/main.e85a0743.css.map",
+    "main.b40242fc.js.map": "/react-portfolio-app/static/js/main.b40242fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.85d8ab4f.css",
-    "static/js/main.d032a0be.js"
+    "static/css/main.e85a0743.css",
+    "static/js/main.b40242fc.js"
   ]
 }
